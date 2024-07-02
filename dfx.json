@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "parrotlink_icp_backend": {
+      "candid": "src/parrotlink_icp_backend/parrotlink_icp_backend.did",
+      "package": "parrotlink_icp_backend",
+      "type": "rust"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
